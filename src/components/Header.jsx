@@ -9,6 +9,7 @@ class Header extends Component{
         const isUserLoggedIn = AuthenticationService.isUserLoggedIn();
         //console.log(isUserLoggedIn);
 	//test comment
+	//test comment 02
 
         return(
             <div>
