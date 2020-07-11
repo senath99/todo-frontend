@@ -1,6 +1,9 @@
 import React, {Component} from 'react';
 
 class Footer extends Component{
+
+    //test comment
+
     render() {
         return(
             <footer className="footer">
